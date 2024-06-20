@@ -16,7 +16,7 @@ export const ImageContainer = styled.div`
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/ai-generated-vintage-telephone-on-vibrant-gradient-background-photo.jpg);
+    url(/images/vintage-telephone.jpg);
   background-size: 100%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
